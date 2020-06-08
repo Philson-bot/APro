@@ -1,0 +1,7 @@
+(('alf2', 'Station1'), 161)
+(('alf3', 'Station5'), 28)
+(('Hans', 'Station7'), 51)
+(('alf6', 'Station4'), 60)
+(('alf', 'Station3'), 172)
+(('alf5', 'Station6'), 104)
+(('alf4', 'Station2'), 70)
