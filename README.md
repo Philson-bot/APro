@@ -1,5 +1,5 @@
-# APro
-Kuhn Munkres Algorithmus
+# Kuhn Munkres Algorithmus mit Eingabe und Verwaltungsmaske
+Kein komerzieller Nutzen gestattet. Dieses Projekt dient ausschliesslich Bildungszwecken.
  Christoph Plusczyk, 08.06.2020, Uni Paderborn
  Python Vs.: 3.8.2
  Version 1.0
