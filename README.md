@@ -1,4 +1,4 @@
-# Kuhn Munkres Algorithmus mit Eingabe und Verwaltungsmaske
+# Kuhn Munkres Algorithmus mit Eingabe und Verwaltungsmaske: Be A Pro!
 Kein komerzieller Nutzen gestattet. Dieses Projekt dient ausschliesslich Bildungszwecken.
  Christoph Plusczyk, 08.06.2020, Uni Paderborn
  Python Vs.: 3.8.2
