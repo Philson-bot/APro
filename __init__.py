@@ -47,7 +47,7 @@ try:
     button1.config(font=("Arial", 12, "bold"))
     button1["command"] = button1.anzeigen
     button1.place(x = 50, y = 50)
-    button2 = Hinzufuegen(rahmen,text="Mitarbeiter hinzufügen", width = 20, height = 5)
+    button2 = Hinzufuegen(rahmen,text=Mitarbeiter hinzufuegen, width = 20, height = 5)
     button2.config(font=("Arial", 12, "bold"))
     button2["command"] = button2.hinzufuegen
     button2.place(x = 430, y = 50)
